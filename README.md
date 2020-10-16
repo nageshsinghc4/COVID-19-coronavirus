@@ -13,6 +13,6 @@ Here we are going to play with the COVID2–19 DNA sequence data using python an
 ### Similarity between COVID-19/COV2, MERS, and SARS.
 
 ![](https://github.com/nageshsinghc4/COVID-19-coronavirus/blob/master/Screenshot%202020-10-16%20at%2011.41.43%20AM.png)
-To get more information about thhis program, please follow below article.
 
+To get more information about thhis program, please follow below article.
 https://www.kdnuggets.com/2020/04/coronavirus-covid-19-genome-analysis-biopython.html
