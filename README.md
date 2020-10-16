@@ -10,4 +10,4 @@ Coronaviruses are a large family of viruses that can cause illnesses ranging wid
 
 To get more information about thhis program, please follow below article.
 
-https://medium.com/@nageshsinghchauhan/coronavirus-covid-19-genome-analysis-using-biopython-8b8cb1f4a041
+https://www.kdnuggets.com/2020/04/coronavirus-covid-19-genome-analysis-biopython.html
