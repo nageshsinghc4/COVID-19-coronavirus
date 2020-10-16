@@ -6,6 +6,8 @@ The emerging global infectious COVID-19 coronavirus disease by novel Severe Acut
 
 Coronaviruses are a large family of viruses that can cause illnesses ranging widely in severity. The first known severe illness caused by a coronavirus appeared with the 2003 Severe Acute Respiratory Syndrome (SARS) epidemic in China. A second outbreak of severe illness originated in 2012 in Saudi Arabia with the Middle East Respiratory Syndrome (MERS). And now the ongoing outbreak of COVID-19.
 
+![DNA comparison](https://github.com/nageshsinghc4/COVID-19-coronavirus/blob/master/Screenshot%202020-10-16%20at%2011.36.26%20AM.png)
+
 To get more information about thhis program, please follow below article.
 
 https://medium.com/@nageshsinghchauhan/coronavirus-covid-19-genome-analysis-using-biopython-8b8cb1f4a041
