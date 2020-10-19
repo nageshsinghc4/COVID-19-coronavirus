@@ -16,3 +16,6 @@ Here we are going to play with the COVID2–19 DNA sequence data using python an
 
 To get more information about thhis program, please follow below article.
 https://www.kdnuggets.com/2020/04/coronavirus-covid-19-genome-analysis-biopython.html
+
+or https://www.theaidream.com/post/coronavirus-covid-19-genome-analysis
+
